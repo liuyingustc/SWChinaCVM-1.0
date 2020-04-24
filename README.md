@@ -1,7 +1,7 @@
 # SWChinaCVM
 This is a reference P- and S-wave velocity model of the crust and uppermost mantle in the southwest China,
 obtained by joint body and surface wave tomography.
-doi: http://www.cses.ac.cn/?p=3747
+(doi: http://www.cses.ac.cn/?p=3747)
 
 * Model Data Format:
 Lon Lat Dep(km) Vp(km/s) Vs(km/s)
