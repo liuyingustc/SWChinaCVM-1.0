@@ -1,6 +1,6 @@
 SWChinaCVM-1.0
 
-This is a reference 3-D P- and S-wave community velocity model of the crust and uppermost mantle in southwest China （SWChinaCVM-1.0）, obtained by joint body and surface wave traveltime tomography. This work is supported by the China Seismic Experimental Site（CSES）. 
+This is a reference 3-D P- and S-wave community velocity model of the crust and uppermost mantle in southwest China (SWChinaCVM-1.0), obtained by joint body and surface wave traveltime tomography. This work is supported by the China Seismic Experimental Site（CSES）. 
 
 * Model Data Format: Lon Lat Dep(km) Vp(km/s) Vs(km/s)
 
