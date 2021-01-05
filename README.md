@@ -10,4 +10,7 @@ This is a reference 3-D P- and S-wave community velocity model of the crust and 
 
 * Depth is relative to the surface (0 km).
 
+The resolutions of Vp and Vs model are calculated according to the checkerboard resolution test. Grid Nodes with resolution higher than 0.7 are considered as well resolved.
+* Format: Lon Lat Dep(km) resolution_of_Vp resolution_of_Vs
+
 If you have any questions, please feel free to contact Huajian Yao (hjyao@ustc.edu.cn) or Ying Liu (liuying7@ustc.edu.cn).
