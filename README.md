@@ -16,6 +16,8 @@ The resolutions of Vp and Vs model are calculated according to the checkerboard 
 If you have any questions, please feel free to contact Huajian Yao (hjyao@ustc.edu.cn) or Ying Liu (liuying7@ustc.edu.cn).
 
 References:
+
 Liu, Y., Yao, H., Zhang, H., and Fang, H. (2021). The Community Velocity Model V.1.0 of Southwest China, Constructed from Joint Body‐ and Surface‐Wave Travel‐Time Tomography. Seismological Research Letters 2021; doi: https://doi.org/10.1785/0220200318.
+
 Yao H., 2020. Building the multi-scale community velocity model in the Sichuan-Yunnan area, China: Strategies and progresses, Science China Earth Sciences (invited), 63(9): 1425-1428, https://doi.org/10.1007/s11430-020-9645-3.
 
