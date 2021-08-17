@@ -8,7 +8,7 @@ This is a reference 3-D P- and S-wave community velocity model of the crust and 
 
 * Grid space: Horizontally 0.5 degree interval, vetically at depth 0, 5, 10, 15, 20, 25, 30, 35, 40, 50, 60, 70 km.
 
-* Depth is relative to the surface (0 km).
+* We provide models with different relative depths: 1) SWChinaCVMv1.0.txt: Depth is relative to the surface (0 km), 2) SWChinaCVMv1.0.txt.wrst.sea_level: Depth is relative to the mean sea level (0 km). Please choose appropriate one according to your situation. For example, if you are dealing with surface wave problems, model with depth relative to the surface (SWChinaCVMv1.0.txt) is recommended. If you are doing body wave tomography or earthquake relocations, model with depth relative to the mean sea level (SWChinaCVMv1.0.txt.wrst.sea_level) is recommended.
 
 The resolutions of Vp and Vs model are calculated according to the checkerboard resolution test. Grid Nodes with resolution higher than 0.7 are considered as well resolved.
 * Format: Lon Lat Dep(km) resolution_of_Vp resolution_of_Vs
